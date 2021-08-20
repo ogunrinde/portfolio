@@ -790,6 +790,7 @@
 		<script>
 			$(function(e){
 				$(".light").click(function(e){
+					e.preventDefault();
 					let q = $(this).attr('id');
 					window.location.href = `./portfolio.html?q=${q}`
 				})
