@@ -1,0 +1,25 @@
+[
+    {
+        "type":"social",
+        "social": [
+            { "twitter":"" },
+            { "linkedIn":"" }
+        ]
+    },
+    {
+        "type":"aboutme",
+        "aboutme": "Software Developer with 4+ years of experience in analysis, design, development, testing and maintenance of various Software Solutions across different industries. Proven ability in building bespoke solutions, digitalizing traditional business processes and improve productivity"
+    },
+    {
+        "type":"stack",
+        "stack": [
+            "REACTJS",
+            "REACTNATIVE",
+            "LARAVEL PHP",
+            "NODEJS",
+            "MYSQL",
+            "POSTGRESQL",
+            "CASSANDRA"
+        ]
+    }
+]

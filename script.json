@@ -1,0 +1,594 @@
+[
+    {
+        "name" : "HR Solution",
+        "id":1,
+        "description":"Manage HR processes seamlessly, It helps HR focuses on core business whlile the system manages the administratives tasks. This tool provides visibility for management, and brings employees together.",
+        "link":"",
+        "stack": [
+            { "name" : "HTML5"},
+            { "name" : "CSS3"},
+            { "name" : "BOOTSTRAP"},
+            { "name" : "PHP" }
+        ],
+        "features":[
+            {
+                "name":"Employee Management",
+                "description":"Company onboard all employees, onboarded employee gets their login credential by email. this module manages employee informstion such as; profile, background education, promotions, certifications."
+            },
+            {
+                "name":"Inventory Management",
+                "description":"Manages all items available for request in the company. It keeps track of volumes and notifies the inventory manager once an item falls below a threshold"
+            },
+            {
+                "name":"Requisition Management",
+                "description":"Each employee can make request for items in the inventory, the requested items are disbursed based on approvals"
+            },
+            {
+                "name":"Cash Request Management",
+                "description":"Each employee can request for cash and channel the request to the appropriate authorities for approvals"
+            },
+            {
+                "name":"Leave Management",
+                "description":"Leave Type (Annual, Causal, Exam etc) are created by the leave manager, and attached to each type is a number of days an employee can process."
+            },
+            {
+                "name":"Talent Management",
+                "description":"The Talent Manager can assign a course or test to a department or unit. The course materials can be uploaded or share a link to the course."
+            },
+            {
+                "name":"Knowledge Sharing",
+                "description":"An Employee will interesting idea can share with the rest of the team. You can target a unit, department or every one in the company"
+            },
+            {
+                "name":"Multi Approvals",
+                "description":"Every request made on the platform requires an approval who can either approval or decline the request. A request can go through multi-approval stage depending on the company structure."
+            },
+            {
+                "name":"Email Notification",
+                "description":"Email are sent to request receivers or approvals."
+            },
+            {
+                "name":"Staff Exit",
+                "description":"Employee exit request are managed with multi-approval processes"
+            },
+            {
+                "name":"Employee Information",
+                "description":""
+            }
+        ],
+        "images":[
+                {"link": "./img/shoot/hrcore1.png"},{"link": "./img/shoot/hrcore2.png"},{"link": "./img/shoot/hrcore3.png"}
+        ]
+    },
+    {
+        "name" : "Car Bidding Platform",
+        "id":2,
+        "description":"Sell, Bid and Order Cars Online. Get best offers on readily available Cars. Register and bid for cars from US live auctions. Order specific Cars for Customers",
+        "link":"",
+        "stack": [
+            { "name" : "REACTJS"},
+            { "name" : "CSS3"},
+            { "name" : "REACT BOOTSTRAP"},
+            { "name" : "LARAVEL PHP" }
+        ],
+        "features":[
+            {
+                "name":"Browse and Listing",
+                "description":"Search for a Car to Buy or Bid, Search based on Make, Brands or Pricing"
+            },
+            {
+                "name":"Order Management",
+                "description":"Have a Car in Mind? Fill a form to describe what you want"
+            },
+            {
+                "name":"Product Management",
+                "description":"Admin user add Cars and other relevant Information including Car Features and current condition of the Vehicle"
+            },
+            {
+                "name":"Car Request Management",
+                "description":"Manages all request from Customer which include customer information, interested product, Processing status, payment status, tracking and messaging (email)"
+            },
+            {
+                "name":"Bid Management",
+                "description":"All Bid request are managed in this module. Admin have access to all bidders request, highest bidder, lowest bidder,open or close bidding, payment, tracking and messaging"
+            },
+            {
+                "name":"Auction Houses",
+                "description":"Manages all auction houses information"
+            },
+            {
+                "name":"User Management",
+                "description":"Manages Authentication, Authorization and Profile of Signed up Users"
+            },
+            {
+                "name":"Dashboard",
+                "description":"Analysis Sales from orders, bidding and Car Request"
+            },
+            {
+                "name":"Email Notification",
+                "description":"Email are sent to customers to notified them of their Request Status"
+            }
+        ],
+        "images":[
+                {"link": "./img/shoot/auto1.png"},{"link": "./img/shoot/auto6.png"},{"link": "./img/shoot/auto2.png"},
+                {"link": "./img/shoot/auto3.png"},{"link": "./img/shoot/auto4.png"},{"link": "./img/shoot/auto5.png"}
+        ]
+    },
+    {
+        "name" : "Performance Management System",
+        "id":3,
+        "description":"An Appraisal system that implements balance score card. A balance score is strategic management performance metric that helps companies identify and improve their internal operations to help their external outcomes.",
+        "link":"",
+        "stack": [
+            { "name" : "REACTJS"},
+            { "name" : "CSS3"},
+            { "name" : "REACT BOOTSTRAP"},
+            { "name" : "LARAVEL PHP" }
+        ],
+        "features":[
+            {
+                "name":"Strategy Map",
+                "description":"Manage Company Goals, goal types and key result areas (KRA) for goals"
+            },
+            {
+                "name":"Score Card",
+                "description":"Develop score card sheet by inputing the key performance indicators, Performance Standard, Deadlines, Frequency of Measurement and Performance Target. Cascade score card to direct reports"
+            },
+            {
+                "name":"Strategy Type",
+                "description":"Define how the company KRA affects each component of the Company"
+            },
+            {
+                "name":"Settings",
+                "description":"Setup Company details,reporting Structures, job roles and title. Setup reporting lines among components"
+            },
+            {
+                "name":"Reporting ",
+                "description":"Cascade and view score card sheet for all direct reports"
+            },
+            {
+                "name":"Task Management",
+                "description":"Receive Task assigned by direct superiors, execute, and get scored on task, and ability to do the same for your direct reports. "
+            },
+            {
+                "name":"Performance Score",
+                "description":"View performance for each year"
+            },
+            {
+                "name":"User Management",
+                "description":"Manages Authentication, Authorization and Profile of Signed up Users"
+            },
+            {
+                "name":"Email Notification",
+                "description":"Email are sent to customers to notified them of their Request Status"
+            }
+        ],
+        "images":[
+                {"link": "./img/shoot/per1.png"},{"link": "./img/shoot/per2.png"},{"link": "./img/shoot/per3.png"},
+                {"link": "./img/shoot/per4.png"}
+        ]
+    },
+    {
+        "name" : "Feedback Monitoring System",
+        "id":4,
+        "description":"Get real time feedback from your customers using various channels (mobile APP, integrated with external system via APIs)",
+        "link":"",
+        "stack": [
+            { "name" : "REACTJS"},
+            { "name" : "CSS3"},
+            { "name" : "REACT BOOTSTRAP"},
+            { "name" : "LARAVEL PHP" }
+        ],
+        "features":[
+            {
+                "name":"Customization Module",
+                "description":"Ability to customize the view on the mobile App from the backend System"
+            },
+            {
+                "name":"Emoji Module",
+                "description":"Ability to create various type of reactions (for example: happy, sad, angry etc)"
+            },
+            {
+                "name":"Feedback Module",
+                "description":"Manage all feedback received and act based on the priority level of the feedback"
+            },
+            {
+                "name":"User Management",
+                "description":"Manage Admin users from various regions and branch across the country. Access is based on permission level"
+            },
+            {
+                "name":"Reporting ",
+                "description":"Generate reports"
+            },
+            {
+                "name":"Email Notification",
+                "description":"Instant Notification on feedback with high priority"
+            }
+        ],
+        "images":[
+                {"link": "./img/shoot/feed1.png"},{"link": "./img/shoot/feed2.png"},{"link": "./img/shoot/feed3.png"},
+                {"link": "./img/shoot/feed4.png"}
+        ]
+    },
+    {
+        "name" : "Sale Manager",
+        "id":5,
+        "description":"Sales Manager is a cloud based application that helps company and businesses to manage their field Sales Activities. Field Sales Manager App helps managers and senior management to track the performance of their field or remote staff in real-time and fill the revenue leaks.",
+        "link":"",
+        "stack": [
+            { "name" : "HTML5"},
+            { "name" : "CSS3"},
+            { "name" : "BOOTSTRAP"},
+             { "name" : "JQUERY"},
+            { "name" : "LARAVEL PHP" }
+        ],
+        "features":[
+            {
+                "name":"Inventory Management",
+                "description":"Once a company on boards on sale manager, the admin can add a list of all the item the company sells. And at the beginning of each month a certain number of items are assigned to the sale representative"
+            },
+            {
+                "name":"Order Management",
+                "description":"Sales representative can also receive order from customer and logs it on the app. The admin gets to see it and process the request."
+            },
+            {
+                "name":"Outlet Management",
+                "description":"All sale rep input the information of all the customer they sell to and admin have access to them at the backend."
+            },
+            {
+                "name":"Sale Representative Management",
+                "description":"Sales representative are company foot soldier that goes around to market to sell company product."
+            },
+            {
+                "name":"Sale reporting",
+                "description":"Admin get real time update on sales"
+            },
+            {
+                "name":"Point of Sales tracking and Image Capturing",
+                "description":"At the point of sales, the app captures the sales location and asks the sale rep to take a picture of the items or outlet location."
+            },
+            {
+                "name":"Route Management",
+                "description":"Sales representative plans on their movement"
+            },
+            {
+                "name":"Customized SKU",
+                "description":"Company can set their SKUs"
+            },
+            {
+                "name":"Market Research",
+                "description":"Share the competitors strategy with the office by capturing images of competitors activities on field."
+            }
+        ],
+        "images":[
+                {"link": "./img/shoot/sale1.png"},{"link": "./img/shoot/sale4.png"},{"link": "./img/shoot/salemobile1.png"},
+                {"link": "./img/shoot/salemobile2.png"},{"link": "./img/shoot/salemobile3.png"},{"link": "./img/shoot/salemobile4.png"}
+        ]
+    },
+    {
+        "name" : "Profile Management System",
+        "id":6,
+        "description":"Manages Anglican Province, Dioceses, Archdeaconary, Parish and Priest Information across Nigeria",
+        "link":"",
+        "stack": [
+            { "name" : "REACTJS"},
+            { "name" : "CSS3"},
+            { "name" : "BOOTSTRAP"},
+             { "name" : "JQUERY"},
+            { "name" : "LARAVEL PHP" }
+        ],
+        "features":[
+            {
+                "name":"Province Management",
+                "description":"Manage province information"
+            },
+            {
+                "name":"Diocese Management",
+                "description":"Manage all Dioceses in Provinces"
+            },
+            {
+                "name":"Archdeaconary Management",
+                "description":"Manage all archdeaconary in dioceses"
+            },
+            {
+                "name":"Parish Management",
+                "description":"Manage all Parish in Archdeaconary"
+            },
+            {
+                "name":"Priest Management",
+                "description":"Manage all priest information"
+            }
+        ],
+        "images":[
+                {"link": "./img/shoot/dioc1.png"},{"link": "./img/shoot/dioc2.png"},{"link": "./img/shoot/dioc3.png"}
+        ]
+    },
+    {
+        "name" : "Applicant Tracking System",
+        "id":7,
+        "description":"This system helps to manage job seekers and profiles. Its management capabilities range from creation of profile to onboarding successful ones.",
+        "link":"",
+        "stack": [
+            { "name" : "REACTJS"},
+            { "name" : "CSS3"},
+            { "name" : "BOOTSTRAP"},
+             { "name" : "JQUERY"},
+            { "name" : "LARAVEL PHP" }
+        ],
+        "features":[
+            {
+                "name":"Candidate Management",
+                "description":"Manages Candidate's Personal information, education history, work experience, language spoken, CV, cover letter, certificates (birth, nysc, professional certifications), guarantors information is being management under this module."
+            },
+            {
+                "name":"Candidate Rating and Tags",
+                "description":"Recruiters can rate candidate based on some set parameters, and tag candidates based on their skill set."
+            },
+            {
+                "name":"Shortlist Management",
+                "description":"With the help of filter, the recruitment officer can search for candidates based on certain criteria. The filtered candidates can then be shortlisted to proceed to the next phase of recruitment"
+            },
+            {
+                "name":"Internal Screening Management",
+                "description":"Recruiter further screens a shortlisted candidate based on their documents and other requirements"
+            },
+            {
+                "name":"Documentation Management",
+                "description":"Manage all Documents from candidates"
+            },
+            {
+                "name":"Medical Management",
+                "description":"Successful Candidates are schedule for medicals. The platform notifies the hospital in charge and candidates via emial notifications."
+            },
+            {
+                "name":"Interview Management",
+                "description":"Create and schedule selected candidates for Interview"
+            },
+            {
+                "name":"Mail Template",
+                "description":"Create email templates for candidate registration, Documentation, Interview, Hospital Notification, shortlist, Notify candidate of Recruitment Job Status"
+            },
+            {
+                "name":"Performance Setting",
+                "description":"Create Parameters from rating candidate"
+            }
+        ],
+        "images":[
+                {"link": "./img/shoot/ats1.png"},{"link": "./img/shoot/ats2.png"},{"link": "./img/shoot/ats3.png"},
+                {"link": "./img/shoot/ats4.png"},{"link": "./img/shoot/ats5.png"},{"link": "./img/shoot/ats6.png"},
+                {"link": "./img/shoot/ats7.png"},{"link": "./img/shoot/ats8.png"}
+        ]
+    },
+    {
+        "name" : "Loans",
+        "id":8,
+        "description":"Connect borrowers and Lenders together. Manage loan request, disbursement, repayment and withthdrawal",
+        "link":"",
+        "stack": [
+            { "name" : "REACTJS"},
+            { "name" : "CSS3"},
+            { "name" : "REACT BOOTSTRAP"},
+            { "name" : "LARAVEL PHP" }
+        ],
+        "features":[
+            {
+                "name":"Profile Management",
+                "description":"Manages Lender and Borrower Profile, Personal Information, Addresses (Home and Office),Bank Information, Credit Score Rating"
+            },
+            {
+                "name":"Vault Management",
+                "description":"As a Lender, specify amount available to borrow, interest rate per month and requirements"
+            },
+            {
+                "name":"Loan Request",
+                "description":"Specify how many you need, maximum interest rate, repayment plans (daily, weekly and monthly) and search for lenders"
+            },
+            {
+                "name":"Repayment Plan",
+                "description":"Based on the plan selected, create a payment schedule for repayment"
+            },
+            {
+                "name":"Peer to Peer",
+                "description":"Peer a Borrower to a Lender or vice versa"
+            },
+            {
+                "name":"Loan Market",
+                "description":"A Lender can access list of borrowers request, the same applies to Borrower"
+            }
+        ],
+        "images":[
+                {"link": "./img/shoot/sureb1.png"},{"link": "./img/shoot/sureb2.png"},{"link": "./img/shoot/sureb3.png"},
+                {"link": "./img/shoot/sureb4.png"},{"link": "./img/shoot/sureb6.png"},{"link": "./img/shoot/sureb7.png"},
+                {"link": "./img/shoot/sureb8.png"}
+        ]
+    },
+    {
+        "name" : "Loans",
+        "id":8,
+        "description":"Connect borrowers and Lenders together. Manage loan request, disbursement, repayment and withthdrawal",
+        "link":"",
+        "stack": [
+            { "name" : "REACTJS"},
+            { "name" : "CSS3"},
+            { "name" : "REACT BOOTSTRAP"},
+            { "name" : "LARAVEL PHP" }
+        ],
+        "features":[
+            {
+                "name":"Profile Management",
+                "description":"Manages Lender and Borrower Profile, Personal Information, Addresses (Home and Office),Bank Information, Credit Score Rating"
+            },
+            {
+                "name":"Vault Management",
+                "description":"As a Lender, specify amount available to borrow, interest rate per month and requirements"
+            },
+            {
+                "name":"Loan Request",
+                "description":"Specify how many you need, maximum interest rate, repayment plans (daily, weekly and monthly) and search for lenders"
+            },
+            {
+                "name":"Repayment Plan",
+                "description":"Based on the plan selected, create a payment schedule for repayment"
+            },
+            {
+                "name":"Peer to Peer",
+                "description":"Peer a Borrower to a Lender or vice versa"
+            },
+            {
+                "name":"Loan Market",
+                "description":"A Lender can access list of borrowers request, the same applies to Borrower"
+            }
+        ],
+        "images":[
+                {"link": "./img/shoot/sureb1.png"},{"link": "./img/shoot/sureb2.png"},{"link": "./img/shoot/sureb3.png"},
+                {"link": "./img/shoot/sureb4.png"},{"link": "./img/shoot/sureb6.png"},{"link": "./img/shoot/sureb7.png"},
+                {"link": "./img/shoot/sureb8.png"}
+        ]
+    },
+    {
+        "name" : "Feed Formulation",
+        "id":9,
+        "description":"Manage feed Ingredient, formualtion feed for chicken using optimized algorithm",
+        "link":"",
+        "stack": [
+            { "name" : "IONIC 4"},
+            { "name" : "CSS3"},
+            { "name" : "HTML5"},
+            { "name" : "CORE PHP" }
+        ],
+        "features":[
+            {
+                "name":"Ingredient Management",
+                "description":"Manage all ingredients."
+            },
+            {
+                "name":"Feed Formulation",
+                "description":"Select 2 to 4 ingredients for mixing, and algorithm will calculate the quantity of each ingredient to mix to achieve the desired protein level"
+            },
+            {
+                "name":"Result Analysis",
+                "description":"Anaylse feed result with charts"
+            },
+            {
+                "name":"Multi Languages",
+                "description":"App is available in English, Swahili and Amharic"
+            }
+        ],
+        "images":[
+                {"link": "./img/shoot/accg1.png"},{"link": "./img/shoot/accg2.png"},{"link": "./img/shoot/accg3.png"},
+                {"link": "./img/shoot/accg4.png"},{"link": "./img/shoot/accg5.png"},{"link": "./img/shoot/accg6.png"}
+        ]
+    },
+    {
+        "name" : "ECommerce",
+        "id":10,
+        "description":"Online Store. Buying and Selling of babies, kids toys",
+        "link":"",
+        "stack": [
+            { "name" : "REACTNATIVE"},
+            { "name" : "CSS3"},
+            { "name" : "HTML5"},
+            { "name" : "LARAVEL PHP" }
+        ],
+        "features":[
+            {
+                "name":"Browse and Listing",
+                "description":"View all product available or search for products"
+            },
+            {
+                "name":"Cart and Checkout",
+                "description":"Add products to Cart and Checkout to payment"
+            },
+            {
+                "name":"Payment Integration",
+                "description":"Payment gateway is integration to collect for the seller"
+            },
+            {
+                "name":"Product Tracking",
+                "description":"Tracking your purchase online with a tracking ID"
+            }
+        ],
+        "images":[
+                {"link": "./img/shoot/ecom1.png"},{"link": "./img/shoot/ecom2.png"},{"link": "./img/shoot/ecom3.png"},
+                {"link": "./img/shoot/ecom4.png"},{"link": "./img/shoot/ecom5.png"},{"link": "./img/shoot/ecom6.png"}
+        ]
+    },
+    {
+        "name" : "Profile Management System (Mobile App)",
+        "id":11,
+        "description":"Manages Anglican Province, Dioceses, Archdeaconary, Parish and Priest Information across Nigeria",
+        "link":"",
+        "stack": [
+            { "name" : "REACTNATIVE"},
+            { "name" : "CSS3"},
+            { "name" : "LARAVEL PHP" }
+        ],
+        "features":[
+            {
+                "name":"Province Management",
+                "description":"Manage province information"
+            },
+            {
+                "name":"Diocese Management",
+                "description":"Manage all Dioceses in Provinces"
+            },
+            {
+                "name":"Archdeaconary Management",
+                "description":"Manage all archdeaconary in dioceses"
+            },
+            {
+                "name":"Parish Management",
+                "description":"Manage all Parish in Archdeaconary"
+            },
+            {
+                "name":"Priest Management",
+                "description":"Manage all priest information"
+            }
+        ],
+        "images":[
+                {"link": "./img/shoot/d1.png"},{"link": "./img/shoot/d2.png"},{"link": "./img/shoot/d3.png"},
+                {"link": "./img/shoot/d4.png"}
+        ]
+    },
+    {
+        "name" : "Field Sales App",
+        "id":12,
+        "description":"Sales Manager is a cloud based application that helps company and businesses to manage their field Sales Activities. Field Sales Manager App helps managers and senior management to track the performance of their field or remote staff in real-time and fill the revenue leaks.",
+        "link":"",
+        "stack": [
+            { "name" : "HTML5"},
+            { "name" : "CSS3"},
+            { "name" : "IONIC 5"}
+        ],
+        "features":[
+            {
+                "name":"Sell Assign Products",
+                "description":"View and Sell from your inventory. Capture the gelocation of sale and take pictures of current sale point"
+            },
+            {
+                "name":"Outlet Management",
+                "description":"View all your customer. Add new customer"
+            },
+            {
+                "name":"Market Research",
+                "description":"Share market insight with the decision maker. Take pictures of competitors product and write about it."
+            },
+            {
+                "name":"Analysis",
+                "description":"Analysis your sales per, day, weekly and monthly"
+            },
+            {
+                "name":"Product Request",
+                "description":"Request for products when out of stock"
+            },
+            {
+                "name":"Notification",
+                "description":"Get Notified when new products are assigned"
+            }
+        ],
+        "images":[
+                {"link": "./img/shoot/salemobile1.png"},{"link": "./img/shoot/salemobile2.png"},{"link": "./img/shoot/salemobile3.png"},
+                {"link": "./img/shoot/salemobile4.png"},{"link": "./img/shoot/salemobile5.png"}
+        ]
+    }
+]
